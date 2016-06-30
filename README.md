@@ -4,8 +4,6 @@ PoC of how to send some JSON logs to logstash via the TCP input.
 
 The log message should be a stringified JSON object in the @message field.
 
-*Via .NET C#*
-
 ## App configuration
 
 App.config file:
